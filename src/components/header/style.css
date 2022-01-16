@@ -1,0 +1,20 @@
+.navbar{
+    height: 86px;
+    box-shadow: 0 0 5px rgba(0,0,0,.2);
+    z-index: 1;
+}
+ul.menu a.nav-link{
+    font-weight: 500;
+}
+ul.menu a.nav-link.active,
+ul.menu a.nav-link:hover{
+    border-bottom: 2px solid #d42819 !important;
+}
+ul.social-button a.nav-link{
+    height: 26px;
+    width: 26px;
+    line-height: 26px;
+}
+ul.social-button a.nav-link:hover{
+    --bs-bg-opacity: 0.5;
+}
