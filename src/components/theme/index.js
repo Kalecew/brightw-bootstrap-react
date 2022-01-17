@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types' 
 import './style.css' 
 
 const Theme = ({ theme }) => (
@@ -11,5 +12,13 @@ const Theme = ({ theme }) => (
       </div>
     </li>
 )
+
+Theme.propTypes = {
+    theme: PropTypes.shape({
+        title: PropTypes.string,
+        autor: PropTypes.string,
+        img: PropTypes.string
+    }).isRequired
+}
 
 export { Theme } 
