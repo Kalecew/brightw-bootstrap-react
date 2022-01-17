@@ -1,17 +1,6 @@
 .intro-text span{
     color: #d42819;
 }
-.card img{
-    height: auto;
-    box-shadow: 0 0 5px rgba(0,0,0,.3);
-    transition: box-shadow .2s linear;
-}
-.card img:hover{
-    box-shadow: 0 0 10px 1px rgba(0,0,0,.5);
-}
-.card-title:hover{
-    color: #d42819 !important;
-}
 .page-item.active .page-link{
     background-color: rgba(0,0,0,.2);
     border-color: rgba(0,0,0,.2);
