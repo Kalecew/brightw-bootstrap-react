@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brightw-bootstrap-react/static/css/main.69218685.chunk.css",
+    "main.js": "/brightw-bootstrap-react/static/js/main.9f141d32.chunk.js",
+    "main.js.map": "/brightw-bootstrap-react/static/js/main.9f141d32.chunk.js.map",
+    "runtime-main.js": "/brightw-bootstrap-react/static/js/runtime-main.94b9a790.js",
+    "runtime-main.js.map": "/brightw-bootstrap-react/static/js/runtime-main.94b9a790.js.map",
+    "static/js/2.256e7f9f.chunk.js": "/brightw-bootstrap-react/static/js/2.256e7f9f.chunk.js",
+    "static/js/2.256e7f9f.chunk.js.map": "/brightw-bootstrap-react/static/js/2.256e7f9f.chunk.js.map",
+    "index.html": "/brightw-bootstrap-react/index.html",
+    "static/css/main.69218685.chunk.css.map": "/brightw-bootstrap-react/static/css/main.69218685.chunk.css.map",
+    "static/js/2.256e7f9f.chunk.js.LICENSE.txt": "/brightw-bootstrap-react/static/js/2.256e7f9f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94b9a790.js",
+    "static/js/2.256e7f9f.chunk.js",
+    "static/css/main.69218685.chunk.css",
+    "static/js/main.9f141d32.chunk.js"
+  ]
+}
