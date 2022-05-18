@@ -11,14 +11,14 @@ const Header = () => (
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse bg-white pb-3 pb-lg-0" id="navbarSupportedContent">
-            <ul className="menu navbar-nav me-auto ms-0 ms-lg-5 mb-2 mb-lg-0 mt-5 mt-lg-0 gap-0 gap-lg-4 fs-5">
-              <li className="nav-item">
+            <ul className="menu navbar-nav me-auto ms-0 ms-lg-5 mb-2 mb-lg-0 mt-5 mt-lg-0 fs-5">
+              <li className="nav-item me-lg-4 me-0">
                 <a className="text-uppercase nav-link border-bottom border-2 border-white text-black-50 px-0 active" aria-current="page" href="#">Home</a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item me-lg-4 me-0">
                 <a className="text-uppercase nav-link border-bottom border-2 border-white text-black-50 px-0" href="#">Portfolio</a>
               </li> 
-              <li className="nav-item">
+              <li className="nav-item me-lg-4 me-0">
                 <a className="text-uppercase nav-link border-bottom border-2 border-white text-black-50 px-0" href="#">Blog</a>
               </li>
               <li className="nav-item">
@@ -26,18 +26,18 @@ const Header = () => (
               </li>
             </ul>
 
-            <ul className="social-button navbar-nav mb-2 mb-lg-0 gap-2 flex-row">
-              <li className="nav-item">
+            <ul className="social-button navbar-nav mb-2 mb-lg-0 flex-row">
+              <li className="nav-item me-2">
                 <a className="nav-link bg-secondary bg-opacity-25 text-white rounded-circle p-0 text-center fab fa-facebook-f" href="#">
                   <span className="visually-hidden-focusable">facebook</span>
                 </a>
               </li>
-              <li className="nav-item">
+              <li className="nav-item me-2">
                 <a className="nav-link bg-secondary bg-opacity-25 text-white rounded-circle p-0 text-center fab fa-twitter" href="#">
                   <span className="visually-hidden-focusable">twitter</span>
                 </a>
               </li> 
-              <li className="nav-item">
+              <li className="nav-item me-2">
                 <a className="nav-link bg-secondary bg-opacity-25 text-white rounded-circle p-0 text-center fab fa-google-plus-g" href="#">
                   <span className="visually-hidden-focusable">google plus</span>
                 </a>
